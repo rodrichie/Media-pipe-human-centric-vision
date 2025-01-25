@@ -71,6 +71,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - OpenCV: [https://opencv.org/](https://opencv.org/)
 - NumPy: [https://numpy.org/](https://numpy.org/)
 - Matplotlib: [https://matplotlib.org/](https://matplotlib.org/)
-```
-
-This `README.md` provides an overview of the notebook's contents, setup instructions, and usage guidelines. You can customize it further based on your specific needs.
